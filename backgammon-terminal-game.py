@@ -1,5 +1,7 @@
 import random
 
+# !!! IMPORTANT !!! THIS CODE IS A WORK IN PROGRESS AND IS NOT FULLY FUNCTIONAL YET.
+
 class Board:
   # The board is represented as a string with the following format, accordingly to the player's side:
   
